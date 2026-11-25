@@ -12,7 +12,7 @@ programming and AI fundamentals to students.
 
 ## Featured projects
 - 👗 [Fashion Recommendation System](https://github.com/Anurag-am/fashion-recommendation-system) – CNN feature extraction + Annoy for outfit suggestions
-- 🥗 [Green Eats](https://github.com/Anurag-am/green-eats) – local food delivery platform working with homemakers, farmers and restaurants
+- 🥗 [Green Eats](https://github.com/claygreen-buddy/greendelivery) – local food delivery platform working with homemakers, farmers and restaurants
 - 🔐 [Web Vulnerability Scanner](https://github.com/Anurag-am/web-vulnerability-scanner) – scans websites for common vulnerabilities
 
 ## Experience
