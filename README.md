@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anurag A M 👋
 
-<!--
-**Anurag-am/Anurag-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Machine Learning practitioner from Kerala, India.
+I build predictive models, analyse data with Python, and teach
+programming and AI fundamentals to students.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, SQL, C, C++
+- **Data & ML:** Pandas, NumPy, FastAI, Matplotlib, Power BI
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, AWS, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- 👗 [Fashion Recommendation System](https://github.com/Anurag-am/fashion-recommendation-system) – CNN feature extraction + Annoy for outfit suggestions
+- 🥗 [Green Eats](https://github.com/Anurag-am/green-eats) – local food delivery platform working with homemakers, farmers and restaurants
+- 🔐 [Web Vulnerability Scanner](https://github.com/Anurag-am/web-vulnerability-scanner) – scans websites for common vulnerabilities
+
+## Experience
+- Graduate Apprentice, Keltron Knowledge Center (2025–2026)
+- Data Science Intern, Luminar Technolab (2024–2025)
+- Python Developer Intern, IIIC (2023–2024)
+
+## Get in touch
+📧 anuragam1412@gmail.com
+🔗 [LinkedIn](paste-your-linkedin-url-here)
